@@ -1,0 +1,6 @@
+{
+  "name": "Kartuli",
+  "description": "Изучение грузинского языка в стиле Duolingo: ИИ-генерация фраз, интервальные повторения SRS, интерактивные задания и бытовая лексика.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
